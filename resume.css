@@ -1,0 +1,138 @@
+body{
+	margin:0px;
+	padding:0px;
+	height: 150vh;
+	font-family: 'Raleway', sans-serif;
+}
+.FIX{
+	clear: both;
+}
+.field {
+    border: 3px solid ;
+    color:white;
+    border-radius: 20px;
+    
+}
+.R-box{
+	width: 800px;
+	height: 1000px;
+	margin: 0 auto;
+	background-color: rgba(126, 125, 121, 0.616);
+    box-shadow: 10px 5px 5px 5px rgb(4, 0, 255);
+}
+.O-box{
+	padding:20px;
+    height: 1100px; ;
+}
+.image{
+	width: 30%;
+	float: left;
+	height: 1500x;
+}
+.image img{
+    height: 200px;
+    width: 220px;
+    border-radius: 100%;
+}
+.Par-head{
+    font-size: 32px;
+    text-transform: uppercase;
+    color:rgb(16, 7, 122);
+    padding: 0px;
+    margin: 0px;
+}
+
+.box-2{
+	width: 54%;
+    float: left;
+    padding: 0px;
+    padding-left: 60px;
+    padding-right: 20px;
+    position: relative;
+  
+}
+.profile{
+	width: 100%;
+}
+.ME{
+	padding: 20px;
+    color: rgb(18, 22, 236);
+    letter-spacing:1px;
+}
+h2{
+	color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+
+p{
+	color: #96969f;
+    font-weight: 300normal;
+    font-size: 12px;
+   letter-spacing: 1px;
+    line-height: 23px;
+}
+.intro{
+    text-align: center;
+}
+.intro h1{
+	font-size: 60px;
+	font-weight: normal;
+	color: #26252d;
+    font-family: arial;
+    letter-spacing: 10px;
+    margin: 8px;
+}
+.ma{
+    font-family: 'Raleway'!important;
+    margin: 0px;
+    padding: 0px;
+     right: 0px;
+    margin-bottom: -20px!important;
+    color: black;
+
+}
+.hr1{
+    position: absolute;
+    background: #f59d17;
+    height: 6px;
+    width: 322px;
+    border: none;
+    right: 0px;
+    top: 17%;
+}
+
+.content-2{
+	padding-top: 20px;
+}
+.head{
+	color:rgb(255, 255, 255);
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0px;
+    letter-spacing: 3px;
+    letter-spacing: 5px;
+    font-family: arial;
+}
+.para-1{
+	font-size: 16px;
+    text-transform: uppercase;
+    color: rgb(5, 5, 7);
+    font-weight: 400;
+    margin: 5px 0px;
+    margin-top: 10px;
+    position: relative;
+}
+.para-1::after{
+    content:" ";
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    background:rgb(45, 80, 233) ;
+    border-radius: 20px;
+    left: -30px;
+    top: 6px;
+}
+
